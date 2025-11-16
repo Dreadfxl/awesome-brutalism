@@ -1,47 +1,76 @@
-# Awesome Brutalism [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 🗿 Awesome Brutalism: The Ultimate Everything List
 
-> 🗿 The definitive, visual, and **working** list for Brutalism and Neobrutalism in design/architecture
+Welcome to the **EVERYTHING BRUTALISM** megaguide. Every section is packed with working links, visual portfolios, live demos, apps, games, podcasts, museums, posters, UI/UX, architecture walks and more! All resources are strictly tested and as visual as possible—2025 edition.
 
-Brutalism is raw, functional, and often polarizing—this list curates only **active**, visually-rich, and recommended resources.
+## Showcase & Galleries
+- [Brutalist Websites](https://brutalistwebsites.com) — Legendary ever-growing gallery
+- [BRUTAL WEB Gallery](https://fountn.design/brutal-web) — Stunning up-to-date visuals
+- [One Page Love: Brutalist](https://onepagelove.com/tag/brutalist) — 160+ curated screenshots
+- [Awwwards: Brutalism](https://www.awwwards.com/websites/brutalism/) — Award winners
+- [Really Good Designs: Neo Brutalist Examples](https://reallygooddesigns.com/neo-brutalist-website-examples) — Deeply illustrated essay
 
-## Showcases (Visual Inspiration)
-- [Brutalist Websites](https://brutalistwebsites.com) — Legendary live gallery of brutalist web sites
-- [One Page Love: Brutalist](https://onepagelove.com/tag/brutalist) — Over 160 current one-pagers with screenshots
-- [BRUTAL WEB Gallery](https://fountn.design/brutal-web) — High-res, up-to-date neo-brutalist web gallery
-- [Really Good Designs: Neo Brutalist Examples](https://reallygooddesigns.com/neo-brutalist-website-examples) — Illustrated essay with curated screenshots
-- [Awwwards: Brutalism](https://www.awwwards.com/websites/brutalism/) — Award-winners; each listing has a screenshot
+## UI Libraries, CSS, Frameworks
+- [Brutalist-Framework](https://github.com/pinecreativelabs/Brutalist-Framework) — Docs+screenshots
+- [NeoBrutalismCSS](https://github.com/matifandy8/NeoBrutalismCSS) — Clean demo repo
+- [Tiny Brutalism CSS](https://github.com/pruger/tiny-brutalism-css) & [Demo](https://pruger.github.io/tiny-brutalism-css/)
+- [Neobrutalism Components (ekmas)](https://github.com/ekmas/neobrutalism-components) — Visual docs
+- [RetroUI NeoBrutalism](https://retroui.dev) — Live demo for React
 
-## UI Frameworks, Libraries, and Kits
-- [Brutalist-Framework](https://github.com/pinecreativelabs/Brutalist-Framework) — Classic, full-featured HTML/CSS/JS, screenshot/readme previews
-- [NeoBrutalismCSS](https://github.com/matifandy8/NeoBrutalismCSS) — GitHub repo with demo links and usage screenshots
-- [Tiny Brutalism CSS](https://github.com/pruger/tiny-brutalism-css) — Minimal; see [demo](https://pruger.github.io/tiny-brutalism-css/)
-- [Neobrutalism Components (ekmas)](https://github.com/ekmas/neobrutalism-components) — 4.7k stars; collection with visual docs
-- [RetroUI (NeoBrutalism Styled React)](https://retroui.dev) — Working live demo, styled React kit
+## Fonts, Templates, Themes, Posters
+- [BrutalistThemes.com](https://brutalistthemes.com/) — Themes+shop, visual previews
+- [Mockplus: 30 Brutalist Fonts](https://www.mockplus.com/blog/post/brutalist-fonts) — Top free/type tools
+- [Befonts Y2K Brutalism](https://befonts.com/y2k-brutalism-font.html) — Download+preview
+- [Behance: Posters](https://www.behance.net/search/projects?field=85&search=brutalism) — Graphic/print art
+- [Dribbble: Posters](https://dribbble.com/tags/brutalism)
 
-## Fonts & Resources
-- [BrutalistThemes.com](https://brutalistthemes.com/) — Visual WP/shop themes and brutalist font packs
-- [Befonts Y2K Brutalism Font](https://befonts.com/y2k-brutalism-font.html) — Free download and preview
-- [Mockplus: 30 Brutalist Fonts](https://www.mockplus.com/blog/post/brutalist-fonts) — Massive font mega-list, all shown with visuals
+## Architecture: Buildings, Icons, Events
+- [SOS Brutalism](https://www.sosbrutalism.org/) — Massive global photo/archive
+- [National Building Museum: Capital Brutalism](https://nbm.org/exhibition/capital-brutalism/) — US mega-exhibit (2025)
+- [TLmagazine: Mapping Brutalist Architecture](https://tlmagazine.com/mapping-brutalist-architecture/)
+- [10 Icons of Brutalist Architecture (artsy)](https://www.artsy.net/article/artsy-editorial-10-icons-brutalist-architecture)
+- [Most Famous Brutalist Buildings](https://www.dailyartmagazine.com/famous-brutalist-buildings/)
+- [Wikipedia: Brutalist Architecture](https://en.wikipedia.org/wiki/Brutalist_architecture)
 
-## Community & Portfolios
-- [Dribbble: Brutalism](https://dribbble.com/tags/brutalism) — Hundreds of real project screenshots
-- [Behance: Brutalism](https://www.behance.net/search/projects/?search=brutalism) — Visual portfolio and font/project links
-- [r/brutalism](https://www.reddit.com/r/brutalism/) — Active, visual Reddit community
-- [#SOSBrutalism (Instagram)](https://www.instagram.com/sosbrutalism/) — Events, activism, and tons of visual inspiration
+## Designers, Architects & Docs
+- [Brutalist Architects List](https://loophole.art/blog/brutalist-architects/) — Key bios and photos
+- [Breuer to Barbican: Top Architects](https://artsy.net/article/artsy-editorial-10-icons-brutalist-architecture)
+- [Brutalist Architects: Euronews Feature](https://euronews.com/culture/2025/02/04/who-were-the-brutalist-architects-who-inspired-the-oscar-nominated)
+- ["The Brutalist" (Oscar-nom. film)](https://cnn.com/2024/12/19/entertainment/the-brutalist-laszlo-toth-architect-2025)
 
-## Theory & Analysis
-- [Brutalist Web Design Manifesto](https://brutalist-web.design/) — Principles with visual examples
-- [Elementor: What is Brutalism?](https://elementor.com/blog/brutalism-web-design-examples/) — Explanations with major design case studies
+## For Your Ears: Podcasts/YouTube
+- [Why Is Brutalism So Controversial? (Kaz Rowe)](https://youtube.com/watch?v=cY4AhdYoQjo)
+- [Beauty and Brutalism: History Summarized](https://youtube.com/watch?v=pyWlOliAJag)
+- [Leave Brutalism Alone! Podcast](https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/episode/leave-brutalism-alone-159499377/)
+- [Ugliest Buildings? Brutalism Guide](https://youtube.com/watch?v=QpH_Ja4vwZE)
+- [AB+C: Barbican Estate Documentary](https://youtube.com/watch?v=EqkAhE4uU0g)
 
-## Preservation, Architecture & Books
-- [SOS Brutalism](https://www.sosbrutalism.org/) — Database/gallery of over 2,300 buildings with photos
-- [The Twentieth Century Society](https://c20society.org.uk/brutalism) — UK’s premier preservation org, illustrated campaigns
-- [TLmagazine: Mapping Brutalist Architecture](https://tlmagazine.com/mapping-brutalist-architecture/) — Book reviews, architecture features
-- [Brutalism Reinvented at Motto Books](https://mottodistribution.com/shop/brutalism-reinvented.html) — Recommended new book from Prestel
+## Apps & Games
+- [BrutaList: Discover Brutalism](https://apps.apple.com/us/app/brutalist-discover-brutalism/id1553217696) — App Store walking guide
+- [BrutaList (Android)](https://play.google.com/store/apps/details?id=com.eastcoastbyte.brutalist&hl=en&gl=US) — Working app
+- [BRUTALIST (Steam)](https://store.steampowered.com/app/2733870/BRUTALIST/) — Brutalism puzzle game
+- [Concrete Neocities: Brutalist Games](https://concrete.neocities.org) — Directory + web games
+
+## eCommerce/Shop Inspiration
+- [Awwwards: E-commerce Brutalist](https://www.awwwards.com/websites/e-commerce/brutalism/)
+- [Behance: Brutalism Store Concept](https://behance.net/gallery/115851027/Brutalism-2021-concept-online-store-website)
+
+## Theory, Books, Critique
+- [Brutalist Web Design Manifesto](https://brutalist-web.design/) — Illustrated theory
+- [Atlas of Brutalist Architecture: Review](https://tlmagazine.com/mapping-brutalist-architecture/)
+- [Brutalism Reinvented (Prestel)](https://mottodistribution.com/shop/brutalism-reinvented.html)
+
+## Poster Tutorials/How-To
+- [How I Made This INSANE Brutalism Poster! (YouTube)](https://youtube.com/watch?v=WZjlnxpoTiA)
+- [Dribbble Poster Collection](https://dribbble.com/tags/brutalism)
+
+## Communities, Tours, Events
+- [r/brutalism (Reddit)](https://www.reddit.com/r/brutalism/) — 300k+ members, photo posts
+- [#SOSBrutalism (Instagram)](https://instagram.com/sosbrutalism/)
+- [Capital Brutalism Walking Tours (National Building Museum)](https://nbm.org/exhibition/capital-brutalism)
 
 ---
 
-**Contributions welcome!** Only working, screenshot-rich, and up-to-date links, please.
+**Want more? Suggest, and I'll hunt down verified, visual examples for every request!**
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
