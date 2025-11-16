@@ -19,160 +19,86 @@ Brutalism is both an architectural movement and a design philosophy characterize
 ## Web Design
 
 ### Galleries & Showcases
-
-- [Brutalist Websites](https://brutalistwebsites.com) - The most comprehensive collection of brutalist web designs from around the world.
-- [One Page Love - Brutalist](https://onepagelove.com/tag/brutalist) - Curated brutalist one-page website examples.
+- [Brutalist Websites](https://brutalistwebsites.com)
+- [One Page Love - Brutalist](https://onepagelove.com/tag/brutalist)
 
 ### Principles & Manifestos
-
-- [Brutalist Web Design](https://brutalist-web.design/) - A manifesto outlining the principles of brutalist web design.
-- [The Brutalist Framework Philosophy](https://brutalistframework.com) - Framework documentation explaining brutalist design principles for the web.
+- [Brutalist Web Design](https://brutalist-web.design/)
+- [The Brutalist Framework Philosophy](https://brutalistframework.com)
 
 ## Frameworks & Libraries
 
 ### CSS Frameworks
-
-- [Brutalist Framework](https://github.com/brutaldesign/brutalist-framework) - An open source HTML, CSS, and JavaScript framework for building brutalist web applications.
-- [Concrete.css](https://concrete.style/) - A simple and minimalist CSS framework inspired by brutalist design.
-
-### JavaScript Libraries
-
-- [Brutal.js](https://github.com/) - Lightweight JavaScript utilities for brutalist interactions.
+- [Brutalist Framework](https://github.com/pinecreativelabs/Brutalist-Framework) - Open source HTML, CSS, JavaScript framework for brutalist web applications.
+- [Concrete.css](https://concrete.style/) - Minimal, classless CSS framework inspired by brutalist design.
+- [NeoBrutalismCSS](https://matifandy8.github.io/) - Lightweight, fast, and brutal CSS for UIs.
+- [Tiny Brutalism CSS](https://github.com/pruger/tiny-brutalism-css) - Minimalist brutalism CSS framework.
 
 ## UI Components
 
 ### React
-
-- [React Brutalist UI](https://github.com/) - A collection of brutalist React components.
-- [Neobrutalism Components](https://github.com/) - Modern neobrutalist component library for React.
+- [Neo-Brutalism UI Library](https://github.com/marieooq/neo-brutalism-ui-library) - React & Tailwind CSS neobrutalism components. [Demo](https://neo-brutalism-ui-library.vercel.app)
 
 ### Vue
-
-- [Vue Brutalist](https://github.com/) - Vue 3 components with brutalist aesthetics.
-
-### Svelte
-
-- [Svelte Brutal](https://github.com/) - Brutalist component collection for Svelte.
+- [neobrutalism-vue](https://github.com/meprovas/meui) - Vue components styled with neobrutalism (see [demo](https://meui.dev)).
 
 ### Tailwind CSS
-
-- [Tailwind Brutalist](https://github.com/) - Brutalist components built with Tailwind CSS.
-- [Neobrutalism Tailwind Plugin](https://github.com/) - Plugin adding neobrutalist utilities to Tailwind.
+- [Neobrutalism Components (React + Tailwind)](https://github.com/shadcn-ui/neobrutalism-components) ([docs](https://neobrutalism.dev)) - High contrast, bold neobrutalism UI components.
 
 ## Architecture
 
 ### Iconic Buildings
+- [Barbican Centre](https://www.barbican.org.uk/)
+- [Habitat 67](https://www.habitat67.com/)
+- [Boston City Hall](https://www.boston.gov/city-hall)
+- [National Theatre](https://www.nationaltheatre.org.uk/)
+- [Trellick Tower](https://en.wikipedia.org/wiki/Trellick_Tower)
+- [Geisel Library](https://library.ucsd.edu/about/geisel-library/)
+- [Zeitz MOCAA](https://zeitzmocaa.museum/)
+- [Mäusebunker](https://en.wikipedia.org/wiki/M%C3%A4usebunker)
 
-- [Barbican Centre](https://www.barbican.org.uk/) - London, UK - One of the most famous brutalist complexes.
-- [Habitat 67](https://www.habitat67.com/) - Montreal, Canada - Modular housing complex by Moshe Safdie.
-- [Boston City Hall](https://www.boston.gov/city-hall) - Boston, USA - Controversial brutalist government building.
-- [National Theatre](https://www.nationaltheatre.org.uk/) - London, UK - Denys Lasdun's iconic theatre complex.
-- [Trellick Tower](https://en.wikipedia.org/wiki/Trellick_Tower) - London, UK - Ernő Goldfinger's residential tower.
-- [Geisel Library](https://library.ucsd.edu/about/geisel-library/) - UC San Diego, USA - Futuristic inverted pyramid design.
-- [Zeitz Museum of Contemporary Art Africa](https://zeitzmocaa.museum/) - Cape Town, South Africa - Converted grain silo.
-- [Mäusebunker](https://en.wikipedia.org/wiki/M%C3%A4usebunker) - Berlin, Germany - Former animal testing facility.
-
-### Photography & Collections
-
-- [Brutalism Appreciation Society](https://www.facebook.com/BrutalismAppreciationSociety/) - Community sharing brutalist architecture photography.
-- [Fuck Yeah Brutalism](https://fuckyeahbrutalism.tumblr.com/) - Tumblr dedicated to brutalist photography.
-- [SOS Brutalism](https://www.sosbrutalism.org/) - International initiative documenting and preserving brutalist architecture.
-
-### Documentaries & Videos
-
-- [Concrete Poetry](https://concretepoetryfilm.com/) - Documentary exploring brutalist architecture.
-- [Brutalism: Architecture's Villain?](https://www.bbc.co.uk/) - BBC documentary examining the movement.
+### Collections & Preservation
+- [Brutalism Appreciation Society](https://www.facebook.com/BrutalismAppreciationSociety/)
+- [SOS Brutalism](https://www.sosbrutalism.org/)
+- [Fuck Yeah Brutalism](https://fuckyeahbrutalism.tumblr.com/)
 
 ## Theory & Articles
-
-### Design Philosophy
-
-- [Brutalist Web Design Principles](https://brutalist-web.design/) - Core principles of brutalist web design.
-- [The Brutalist Architecture Guidebook](https://architizer.com/blog/practice/details/brutalist-architecture/) - Understanding architectural brutalism.
-- [Why Brutalism is Beautiful](https://www.dezeen.com/) - Articles defending brutalist aesthetics.
-
-### Historical Context
-
-- [The Origins of Brutalism](https://www.architectural-review.com/) - Tracing the movement's roots.
-- [Béton Brut: The Raw Material](https://www.archdaily.com/) - Understanding the material origins.
-
-### Modern Interpretations
-
-- [Neobrutalism in Web Design](https://www.smashingmagazine.com/) - How brutalism evolved for digital interfaces.
-- [Brutalism in 2025](https://www.designboom.com/) - Contemporary applications of brutalist principles.
+- [Designlab - Brutalism in Web Design](https://designlab.com/blog/brutalism-web-design-examples/)
+- [Brutalist Web Design Principles](https://brutalist-web.design/)
+- [The Origins of Brutalism](https://www.architectural-review.com/)
 
 ## Tools & Resources
-
-### Design Tools
-
-- [Brutalist Figma UI Kit](https://www.figma.com/community/) - Ready-to-use brutalist components for Figma.
-- [Brutalism Color Palettes](https://coolors.co/) - Color schemes inspired by brutalist architecture.
-
-### Typography
-
-- [Brutalist Fonts](https://brutalistfonts.com/) - Typefaces that embody brutalist aesthetics.
-- [Concrete Typography](https://fonts.google.com/) - Bold, geometric fonts suitable for brutalist design.
-
-### Texture & Materials
-
-- [Concrete Textures](https://www.textures.com/) - High-quality concrete and raw material textures.
-- [Brutalist Patterns](https://www.heropatterns.com/) - Geometric patterns for brutalist designs.
+- [Brutalist Figma UI Kit](https://www.figma.com/community/)
+- [Brutalism Color Palettes](https://coolors.co/)
+- [Brutalist Fonts](https://brutalistfonts.com/)
 
 ## Examples
 
 ### Websites
+- [Yale School of Art](https://www.art.yale.edu/) - Intentional Brutalist design, editable by users.
+- [Balenciaga](https://www.balenciaga.com/) - Fashion brand historically known for brutalist web design ([review](https://designmantic.com/blog/brutalism-in-web-design/)).
+- [Bloomberg Businessweek](https://www.bloomberg.com/businessweek) - News site referencing brutalist influence ([details](https://obriy.design/blog/web-brutalism/)).
 
-- [Bloomberg Businessweek](https://www.bloomberg.com/businessweek) - Magazine site with brutalist elements.
-- [Balenciaga](https://www.balenciaga.com/) - Fashion brand embracing brutalist web design.
-- [Yale School of Art](https://www.art.yale.edu/) - Editable brutalist website.
-
-### Open Source Projects
-
-- [Brutalist Portfolio Template](https://github.com/) - Portfolio starter with brutalist design.
-- [Brutalist Blog Theme](https://github.com/) - Blog theme for static site generators.
-
-### Mobile Apps
-
-- [Brutalist UI Examples](https://dribbble.com/tags/brutalism) - Mobile app designs on Dribbble.
+### Real-World Examples
+- [One Page Love Inspiration](https://onepagelove.com/tag/brutalist)
+- [Brutalistwebsites.com](https://brutalistwebsites.com)
 
 ## Books & Publications
-
-- **"Brutal London"** by Simon Phipps - Photographic survey of London's brutalist architecture.
-- **"Atlas of Brutalist Architecture"** by Phaidon - Comprehensive global survey of 850+ brutalist buildings.
-- **"SOS Brutalism: A Global Survey"** - Documentation of brutalist buildings at risk.
-- **"This Brutal World"** by Peter Chadwick - Photography book celebrating brutalism worldwide.
-- **"Concrete Concept: Brutalist Buildings Around the World"** - Contemporary look at brutalism.
+- "Brutal London" by Simon Phipps
+- "Atlas of Brutalist Architecture" by Phaidon
+- "SOS Brutalism: A Global Survey"
+- "This Brutal World" by Peter Chadwick
+- "Concrete Concept: Brutalist Buildings Around the World"
 
 ## Community
-
-### Forums & Discussion
-
-- [r/brutalism](https://www.reddit.com/r/brutalism/) - Reddit community for brutalism enthusiasts.
-- [Brutalist Architecture Group](https://www.facebook.com/groups/brutalistarchitecture/) - Facebook discussion group.
-
-### Social Media
-
-- [#brutalism on Instagram](https://www.instagram.com/explore/tags/brutalism/) - Photography and inspiration.
-- [#brutalarchitecture on Twitter](https://twitter.com/hashtag/brutalarchitecture) - News and discussions.
-
-### Organizations
-
-- [The Twentieth Century Society](https://www.c20society.org.uk/) - UK organization preserving modern architecture.
-- [Docomomo](https://www.docomomo.com/) - International committee for modern heritage.
+- [r/brutalism](https://www.reddit.com/r/brutalism/)
+- [Brutalist Architecture Group](https://www.facebook.com/groups/brutalistarchitecture/)
+- [#brutalism on Instagram](https://www.instagram.com/explore/tags/brutalism/)
 
 ## Contributing
+Contributions welcome! Read the [contributing guidelines](contributing.md) first.
 
-Contributions are welcome! Please read the [contribution guidelines](contributing.md) first.
-
-### Contribution Criteria
-
-- Resources must be relevant to brutalism (architectural or digital)
-- Links must be working and lead to quality content
-- Descriptions should be clear and concise
-- Follow alphabetical ordering within sections
-- One suggestion per pull request
-
-## License
+---
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
