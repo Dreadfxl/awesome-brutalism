@@ -53,18 +53,17 @@ Brutalism is both an architectural movement and a design philosophy characterize
 
 *Free brutalist fonts and typography resources*
 
-- [BrutalistThemes: 35+ Free Fonts](https://brutalistthemes.com/35-free-fonts-for-brutalism/) - Comprehensive font list with previews
 - [Mockplus: 30 Best Brutalist Fonts](https://www.mockplus.com/blog/post/brutalist-fonts) - Curated 2025 list with download links
 - [Befonts: Y2K Brutalism Font](https://befonts.com/y2k-brutalism-font.html) - Free font with preview and related fonts
 - [FontSpace: Brutalist Fonts](https://fontspace.com/tag/brutalist) - 39+ free brutalist fonts
-- [FontsArena: Brutalist Collection](https://fontsarena.com) - Grotesque and neo-grotesque fonts for brutalist designs
-- [1001 Fonts: Brutalist](https://1001fonts.com) - 77+ free brutalist fonts with character
+- [1001 Fonts: Brutalist](https://1001fonts.com/brutalist-fonts.html) - Free brutalist typefaces
+- [FontsArena: Grotesque Fonts](https://fontsarena.com/grotesque-fonts/) - Neo-grotesque fonts for brutalist designs
 
 ## Themes & Templates
 
 *Pre-built themes and design kits*
 
-- [BrutalistThemes.com](https://brutalistthemes.com/) - WordPress themes, Shopify templates, UI kits, and font packs
+- [BrutalistThemes.com](https://brutalistthemes.com/) - WordPress themes, Shopify templates, UI kits
 - [Dribbble: Brutalism](https://dribbble.com/tags/brutalism) - Design concepts and mockups
 - [Behance: Brutalism Projects](https://www.behance.net/search/projects/?search=brutalism) - Portfolio projects and case studies
 
@@ -73,8 +72,8 @@ Brutalism is both an architectural movement and a design philosophy characterize
 *Brutalism in posters, branding, and visual communication*
 
 - [Behance: Brutalist Graphic Design](https://www.behance.net/search/projects?search=brutalist%20graphic%20design) - Showcase of brutalist posters, branding, and typography
-- [Playbook: Beginner's Guide to Brutalism in Graphic Design](https://playbook.com) - Elements, principles, and famous examples (1972 Munich Olympics, Beatles White Album)
-- [Dribbble: Brutalist Portfolio Designs](https://dribbble.com) - Thousands of brutalist portfolio inspirations
+- [Playbook: Beginner's Guide](https://playbook.com/gallery/brutalism-graphic-design) - Elements, principles, and famous examples
+- [Dribbble: Brutalist Portfolios](https://dribbble.com/search/brutalist) - Portfolio design inspirations
 
 ## Theory & Articles
 
@@ -82,8 +81,7 @@ Brutalism is both an architectural movement and a design philosophy characterize
 
 - [Brutalist Web Design Manifesto](https://brutalist-web.design/) - Original manifesto and design philosophy
 - [StringLabs: Brutalist Web Design Principles](https://stringlabscreative.com/blog/brutalism-web-design-principles-examples-pros-cons/) - Comprehensive guide with pros/cons
-- [Octet Design: Brutalist Design in 2025](https://octet.design) - AI integration and future trends
-- [Carl Barenbrug: Brutalist Web Design](https://carlbarenbrug.com) - Performance and honesty in brutalist sites
+- [Smashing Magazine: Brutalist Web Design](https://www.smashingmagazine.com/2020/01/split-personality-brutalist-web-development/) - Modern brutalist development approaches
 
 ## Architecture & Preservation
 
@@ -91,10 +89,10 @@ Brutalism is both an architectural movement and a design philosophy characterize
 
 ### Preservation Organizations
 
-- [SOS Brutalism](https://www.sosbrutalism.org/) - Global database of 1900+ buildings, red list of endangered projects
+- [SOS Brutalism](https://www.sosbrutalism.org/) - Global database of 2000+ buildings, red list of endangered projects
 - [The Twentieth Century Society](https://c20society.org.uk/brutalism) - UK-based conservation authority
 - [UMass BRUT](https://www.umassbrut.org) - Award-winning campaign for UMass brutalist architecture
-- [Conserving Black Modernism](https://www.getty.edu) - Getty Foundation initiative preserving Black architects' brutalist work
+- [Conserving Black Modernism](https://www.getty.edu/foundation/initiatives/current/keeping_it_modern/black_modernism.html) - Getty Foundation initiative preserving Black architects' brutalist work
 
 ### Iconic Buildings
 
@@ -105,59 +103,53 @@ Brutalism is both an architectural movement and a design philosophy characterize
 
 *Essential reading on brutalist architecture and design*
 
-- [Atlas of Brutalist Architecture (Phaidon)](https://www.phaidon.com) - 850+ buildings across 102 countries, Classic Edition available
+- [Atlas of Brutalist Architecture (Phaidon)](https://www.phaidon.com/store/architecture/atlas-of-brutalist-architecture-classic-format-9781838661908/) - 850+ buildings across 102 countries
 - [Brutal London - Zupagrafika](https://zupagrafika.com/collections/books) - Press-out paper models and photography
-- [Brutalist Scotland - Simon Phipps](https://www.waterstones.com/book/brutal-scotland/) - Photography and architectural analysis
-- [Brutal Bloc - Zupagrafika](https://zupagrafika.com) - Eastern European brutalist architecture with 9 paper models
-- [Brutalist Plants - Olivia Broome](https://www.waterstones.com/book/brutalist-plants/) - Intersection of plants and concrete
+- [Brutalist Scotland - Simon Phipps](https://www.waterstones.com/book/brutal-scotland/simon-phipps/9781916470912) - Photography and architectural analysis
+- [Brutalist Plants - Olivia Broome](https://www.waterstones.com/book/brutalist-plants/olivia-broome/9781914314454) - Intersection of plants and concrete
 
 ## Documentaries & Films
 
 *Films exploring brutalism in architecture and culture*
 
-- [The Brutalist (2025)](https://www.hbomax.com) - Three-time Oscar-winning drama starring Adrien Brody about a Jewish architect post-WWII
-- [Bunkers, Brutalism and Bloodymindedness: Concrete Poetry with Jonathan Meades](https://www.bbc.co.uk) - BBC two-part documentary on brutalist architecture
-- [Brutal Utopias - Morgan Adamson](https://morganadamson.info) - Documentary on urban renewal resistance with archival material
-- [Arte: Architectural Series](https://arte.tv) - French-German mini-series with English subtitles on brutalism
+- [The Brutalist (2025) - HBO Max](https://www.hbomax.com/the-brutalist) - Oscar-winning drama starring Adrien Brody
+- [Concrete Poetry with Jonathan Meades](https://www.bbc.co.uk/programmes/b0078jwb) - BBC documentary on brutalist architecture
+- [Brutal Utopias - Morgan Adamson](https://morganadamson.info/film-brutal-utopias) - Documentary on urban renewal resistance
 
 ## Video Games
 
 *Games featuring brutalist aesthetics and environments*
 
-- [Control](https://www.remedygames.com/games/control/) - Third-person action in a brutalist government building ("The Oldest House")
-- [Mirror's Edge](https://www.ea.com) - First-person parkour with stark minimalist/brutalist cityscapes
+- [Control](https://www.remedygames.com/games/control/) - Third-person action in brutalist government building
+- [Mirror's Edge](https://www.ea.com/games/mirrors-edge/mirrors-edge) - First-person parkour with minimalist cityscapes
 - [Manifold Garden](https://manifoldgarden.com) - Physics-based puzzle game with impossible brutalist architecture
-- [Hotline Miami Collection](https://store.steampowered.com) - Fast, brutal top-down action with stark visuals
+- [Hotline Miami Collection](https://store.steampowered.com/app/219150/Hotline_Miami/) - Fast, brutal top-down action
 
 ## Podcasts & Audio
 
 *Audio content exploring brutalism*
 
-- [CBC Ideas: How Brutalist Architecture Goes Beyond Aesthetics](https://www.cbc.ca) - 54-minute deep dive into brutalism's social implications | [Apple Podcasts](https://podcasts.apple.com) | [Spotify](https://open.spotify.com)
-- [Overthinking It: Brutalism and Architecture](https://overthinkingit.com) - Discussion on built environments and The Brutalist film
-- [Archispeak: A Brutal(ist) Review](https://archispeakpodcast.com) - Architects critique The Brutalist film
-- [SoundCloud: What is Brutalism?](https://soundcloud.com) - Explanation of brutalist architecture history
+- [CBC Ideas: Brutalist Architecture](https://www.cbc.ca/radio/ideas/how-brutalist-architecture-goes-beyond-aesthetics-1.7296133) - 54-minute deep dive into brutalism's social implications
+- [Overthinking It: Brutalism and Architecture](https://www.overthinkingit.com/2025/03/17/overthinking-it-podcast-episode-871-brutalism-and-architecture/) - Discussion on built environments
+- [Archispeak: A Brutal(ist) Review](https://archispeakpodcast.com/362) - Architects critique The Brutalist film
 
 ## Courses & Tutorials
 
 *Learning resources for brutalist design*
 
-- [Neo Brutalist Web Design Tutorial - YouTube](https://www.youtube.com/watch?v=) - 5-minute tutorial using Wix Studio
-- [Figma Tutorial: Brutalism Web Header UI](https://www.youtube.com/watch?v=) - Deep dive into brutalist header design
-- [What is Brutalism in Graphic Design - YouTube](https://www.youtube.com/watch?v=) - History and tutorial for posters, websites, branding
+- [YouTube: Neo Brutalist Web Design](https://www.youtube.com/results?search_query=neo+brutalist+web+design+tutorial) - Collection of brutalist design tutorials
+- [YouTube: Brutalism in Graphic Design](https://www.youtube.com/results?search_query=brutalism+graphic+design+tutorial) - Poster and branding tutorials
 - [GitHub: Brutalism Topic](https://github.com/topics/brutalism) - Code repositories and examples
 
 ## Walking Tours & Events
 
 *In-person and virtual experiences*
 
-- [Brutal New York: Walking Tour](https://mas.org) - 2-mile Manhattan tour from Tribeca to Washington Square Park
-- [London: Brutalist Architecture Walking Tour](https://www.getyourguide.com) - Post-war architecture in Central London
-- [Brutalism for Beginners - London Tour](https://www.tripadvisor.com) - Concrete and social history exploration
-- [Skopje Modernist & Brutalist Walking Tour](https://mymacedoniablog.com) - Two-part tour covering 10+ km of Skopje's brutalist complexes
-- [Bristol Modernist Society: Brutalist Buildings Walk](https://bristolcivicsociety.org.uk) - Guided November 2025 walk
-- [Chicago Architecture Center: Brutalism Tour](https://architecture.org) - 3.5-hour bus tour with stop at Ozinga concrete manufacturer
-- [Preserving the Recent Past 4 Conference](https://hpef.us) - Boston, March 19-22, 2025 preservation conference
+- [Brutal New York: Walking Tour](https://mas.org/event-tag/brutalism/) - Manhattan brutalist architecture tours
+- [London: Brutalist Architecture Tour](https://www.getyourguide.com/london-l57/london-brutalist-architecture-history-walking-tour-t408901/) - Post-war architecture in Central London
+- [Skopje Modernist & Brutalist Tour](https://mymacedoniablog.com/skopje-modernist-brutalist-architecture-walking-tour/) - Two-part tour of Skopje's complexes
+- [Chicago Architecture Center](https://architecture.org/experience/tours/) - Brutalism bus tours with concrete manufacturer visit
+- [Preserving the Recent Past 4](https://hpef.us) - Boston preservation conference (March 2025)
 
 ## Community & Social
 
@@ -165,14 +157,13 @@ Brutalism is both an architectural movement and a design philosophy characterize
 
 - [r/brutalism](https://www.reddit.com/r/brutalism/) - 250K+ members, most active brutalism community
 - [#SOSBrutalism (Instagram)](https://www.instagram.com/sosbrutalism/) - Preservation activism and photography
-- [Brutalism Appreciation Society (Instagram)](https://www.instagram.com/brutalismappreciation) - Active event-linked community
+- [Brutalism Appreciation (Instagram)](https://www.instagram.com/brutalismappreciation/) - Active event-linked community
 
 ## Tools & Resources
 
 *Design tools and builders*
 
-- [Instapage: Brutalist Web Page Builder](https://instapage.com) - Landing page builder with brutalist templates
-- [Elementor & CopyElement](https://blog.copyelement.com) - WordPress page builder for brutalist sites
+- [Instapage](https://instapage.com) - Landing page builder with customizable templates
 - [GitHub: Brutalism Topics](https://github.com/topics/brutalism) - Open source brutalist projects
 - [GitHub: Neobrutalism Topics](https://github.com/topics/neobrutalism) - Modern brutalist design repositories
 
